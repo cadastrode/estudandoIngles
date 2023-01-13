@@ -89,10 +89,10 @@ body {
     background: #8116A9;
     box-shadow: 3px 3px 5px 5px rgba(0, 0, 0, 0.63);
     display: block;
-    width: 1000px;
+    width: 900px;
     border: 3px solid #a88;
     border-radius: 20px;
-    margin: 10px 20%;
+    margin: 20px 25%;
     padding: 10px;
 }
 
