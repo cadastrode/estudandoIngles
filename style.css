@@ -6,7 +6,7 @@
 }
 
 header {
-    width: 152vw;
+ 
     display: flex;
     background-image: linear-gradient(to bottom, #6F1CA6, #FDE2FF, #6F1CA6);
     flex-direction: column;
@@ -55,6 +55,7 @@ h3 {
 }
 
 nav {
+    margin-top: 10px;
     float: left;
     display: block;
     background-color: #F2B705;
@@ -67,7 +68,7 @@ a {
     font-weight: bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #56016b;
-    padding: 5px 90px 5px 90px;
+    padding: 5px 25px 5px 25px;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.548);
     text-decoration: none;
     border-bottom: 2px solid #910ce9;
@@ -89,7 +90,7 @@ body {
     width: 850px;
     border: 3px solid #a88;
     border-radius: 20px;
-    margin: 20px 25%;
+    margin: 20px 11%;
     padding: 10px;
 }
 
