@@ -6,6 +6,7 @@
 }
 
 header {
+    width: 100vw;
     display: flex;
     margin-top: 0px;
     background-image: linear-gradient(to bottom, #6F1CA6, #FDE2FF, #6F1CA6);
