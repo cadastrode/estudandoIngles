@@ -6,6 +6,7 @@
 }
 
 header {
+    width: 152vw;
     display: flex;
     background-image: linear-gradient(to bottom, #6F1CA6, #FDE2FF, #6F1CA6);
     flex-direction: column;
