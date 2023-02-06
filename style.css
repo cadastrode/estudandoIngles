@@ -48,24 +48,27 @@ h3{
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.719);
 }
 nav{
+    width: 19%;
+    margin: 6px;
     float: left;
-    display: block;
+    display: flex;
+    flex-direction: column;
     background-color: #F2B705;
     border-radius: 10px;
+    
 }
 a{
     display: block;
-    font-size: 1.3em;
+    font-size: 1.2rem;
     font-weight: bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #56016b;
-    padding: 5px 90px 5px 90px;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.548);
     text-decoration: none;
     border-bottom: 2px solid #910ce9;
+    text-align: center;
     
 }a:hover{
-    font-size: 1.4em;
+    font-size: 1.4rem;
 }
 body{
     background: #f6d5f8;
